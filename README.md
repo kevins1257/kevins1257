@@ -34,12 +34,13 @@
 <br>
 
 ### 💻 Tech Stack
-<!-- Edit the ?i= list with your actual tools/languages (see https://skillicons.dev) -->
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,python,git,vscode,linux&perline=8" alt="skills" />
-  </a>
-</p>
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
 
 <br>
 
