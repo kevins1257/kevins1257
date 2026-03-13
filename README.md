@@ -23,7 +23,7 @@
 - 📡 **Streaming** — Live on multiple platforms — gaming, coding, chill hangs
 
 ### 🛠️ What I'm Up To
-Building cool stuff, writing code, and sharing the journey.  
+learning new coding languages and sharing the journey.  
 Feel free to check out my repositories, star/fork, or open issues — contributions and collabs welcome!
 
 ---
