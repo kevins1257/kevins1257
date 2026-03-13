@@ -12,9 +12,6 @@
 ### 🌟 About Me
 
 - 📍 **From** — New Jersey, USA  
-- 💻 **Currently** — Building personal projects, improving daily, sharing the journey publicly  
-- 🏀 **Passions** — Basketball (pickup or watching), gaming sessions, folding origami for calm, watching anime while coding, and gaming!
-- 🎯 **Mindset** — Consistent small wins → real progress. Always leveling up.
 
 - 🛠 **What I'm working on**  
   Personal tools, fun experiments, and whatever sparks interest — from quick scripts to bigger apps.
