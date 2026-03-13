@@ -1,44 +1,60 @@
 <div align="center">
   <h1>Hey there! 👋 I'm Kevin Shah</h1>
   <p>
-    <strong>New Jersey-based developer</strong> | Always leveling up day by day 🚀
+    <strong>New Jersey-based developer</strong> • Grinding code & leveling up every day 🚀
   </p>
 
-  <!-- Optional: Add a header image or GIF here if you want -->
-  <!-- <img src="https://media.giphy.com/media/your-cool-gif-url-here" width="300" alt="Coding vibes" /> -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4500&pause=1000&color=00D4FF&center=true&vCenter=true&width=580&lines=Consistency+over+perfection;Small+steps+→+Big+progress;Code+today%2C+game+tonight;Anime+%26+origami+reset+button" alt="Typing SVG" />
 </div>
 
----
+<br>
 
 ### 🌟 About Me
-- 📍 **From**: New Jersey, USA
-- 💻 **Currently**: Grinding on personal projects and getting better every single day
-- 🎯 **Mindset**: Consistent improvement — small steps, big progress
 
-### 🎮 Hobbies & Passions
-- 🏀 **Basketball** — Pickup games or watching the pros
-- 🎮 **Gaming** — Always ready for a session (what's your go-to game?)
-- 🧾 **Origami** — Folding paper is my calm zone
-- 📺 **Anime** — Big fan, I watch a ton while coding or relaxing
-- 📡 **Streaming** — Live on multiple platforms — gaming, coding, chill hangs
+- 📍 **From** — New Jersey, USA  
+- 💻 **Currently** — Building personal projects, improving daily, sharing the journey publicly  
+- 🏀 **Passions** — Basketball (pickup or watching), gaming sessions, folding origami for calm, watching anime while coding, and gaming!
+- 🎯 **Mindset** — Consistent small wins → real progress. Always leveling up.
 
-### 🛠️ What I'm Up To
-learning new coding languages and sharing the journey.  
-Feel free to check out my repositories, star/fork, or open issues — contributions and collabs welcome!
+- 🛠 **What I'm working on**  
+  Personal tools, fun experiments, and whatever sparks interest — from quick scripts to bigger apps.
 
----
+- 🤝 **Open to collaborating on**  
+ Open-source GenAI projects, creative AI applications, and anything that blends intelligence with real-world impact.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kevins1257&show_icons=true&theme=radical" alt="Kevin's GitHub stats" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kevins1257&theme=radical" alt="GitHub Streak" />
-</div>
+- 🌱 **Currently learning**  
+  Better code structure, new frameworks/languages, staying consistent with daily commits.
+
+- 💬 **Ask me about**  
+  Basketball, anime recommendations, origami tips, gaming setups, coding motivation, or just life in NJ.
+
+<br>
 
 <div align="center">
-  <h3>Let's Connect!</h3>
-  (https://www.linkedin.com/in/kevins27/) 
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
----
+<br>
 
-Thanks for stopping by!   
+### 💻 Tech Stack
+<!-- Edit the ?i= list with your actual tools/languages (see https://skillicons.dev) -->
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,python,git,vscode,linux&perline=8" alt="skills" />
+  </a>
+</p>
+
+<br>
+
+### 📫 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kevins27)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shahkevk@gmail.com) 
+
+<div align="center">
+  
+<br>
+
+<div align="center">
+  <i>"Code today. Fold tomorrow. Game tonight. Repeat."</i>
+</div>
